@@ -1,0 +1,15 @@
+{
+  "name": "npm_tools",
+  "version": "1.0.0",
+  "description": "this is lecture learn about of the npm and tools",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "jayesh gondaliya",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
